@@ -1,4 +1,4 @@
-### Hi there 👋
+### I hack things and try not to get arrested.
 
 <!--
 **bleugod/bleugod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
